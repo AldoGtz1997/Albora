@@ -1,0 +1,16 @@
+body {
+  background-color: #00FF00;
+  color:#0000FF
+}
+
+p{
+  color:#FF00FF;
+}
+
+.lw{
+  border: solid 10px red;
+}
+
+#di{
+  border: solid 10px blue;
+}
